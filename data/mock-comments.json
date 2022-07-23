@@ -1,0 +1,34 @@
+{
+    "1" : {
+        "body" : "This is the first comment",
+        "replies" : ["first reply", "second reply"],
+        "like" : {
+            "is-there" : true,
+            "number" : 1
+        },
+        "funny" : {
+            "is-there" : true,
+            "number" : 4
+        },
+        "angry" : {
+            "is-there" : false,
+            "number" : 0
+        }
+    },
+    "2" : {
+        "body" : "This is the second comment",
+        "replies" : ["first reply", "second reply", "third reply"],
+        "like" : {
+            "is-there" : false,
+            "number" : 0
+        },
+        "funny" : {
+            "is-there" : true,
+            "number" : 2
+        },
+        "angry" : {
+            "is-there" : true,
+            "number" : 5
+        }
+    }
+}
