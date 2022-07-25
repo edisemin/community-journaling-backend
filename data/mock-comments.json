@@ -1,4 +1,4 @@
-{
+ {
     "1" : {
         "body" : "This is the first comment",
         "replies" : ["first reply", "second reply"],
@@ -32,3 +32,5 @@
         }
     }
 }
+
+module.exports = data;
